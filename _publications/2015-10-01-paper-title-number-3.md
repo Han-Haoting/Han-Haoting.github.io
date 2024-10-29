@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 3"
+title: "Center of circle positioning method of heat pipe orifice based on random hough transform"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
