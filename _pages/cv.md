@@ -11,9 +11,32 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+#* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Guangzhou, China, South China University of Technology, Sept.2017-Jun.2021
+* B.S. in Chongqing, China, Southwest University, Sept.2021-Jun.2024
+
+RESEARCH EXPERIENCE
+======
+* Automatic Liquid Injection Machine for Heat Pipes
+  * Project Leader	Sept.2021-Feb.2022
+    * Built the three-dimensional model of mechanical components and analyzed the mechanical property of materials
+    * Designed the electrical control system and assembled mechanical and electronic components
+    * Compiled the ladder logic for Mitsubishi PLC to control the system operation
+    * Coordinated the project with team members, professors and staffs
+
+* Exploring The Machine Vision-Based Method for Positioning The Center of Heat Pipe Orifices
+  * Project Leader	Feb.2022-Sept.2023
+    * Adopted to various conventional machine vision algorithms to solve the center of the heat pipe orifices
+    * Proposed an improved method based on random hough transform
+    * Submitted a paper as the second author to the journal of Chongqing University (Currently in peer review)
+    * Granted a patent as the third author (Patent No.ZL 2022 1 0592749.4)
+
+* System Development of Machine Vision-Based Positional Solution Algorithm for Ultra-Thin Vapour Chamber
+  * Project Leader	Feb.2022‐Jun.2024
+    * Utilized the deep learning method to improve the traditional visual positioning algorithm
+    * Deployed the proposed algorithm to the assembled system
+    * Submitted a paper as the first author to Signal, Image and Video processing (Currently in the second round of peer review)
+    * Granted a patent as the first author (Patent No.ZL 2022 1 1325575.1)
 
 Work experience
 ======
@@ -34,31 +57,43 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computer Skills:
+  * Operating System: Windows, Linux
+  * Programming Language: C++, Python
+  * Software and development platform: Visual Studio, Pycharm, Qt Creator, MATLAB, Solidworks, AutoCAD
+* Language Skills:
+  * English: TOFEL: 95(Reading 27, Listening 23, Speaking 21, Writing 24)
+  * Mandarin Chinese (native language)
 
-Publications
+INTERNSHIP
+======
+* Guangdong NewIdea Technology Co., Ltd. (China), Research & Development Engineer	Jul.2021‐Jun.2024
+  * Worked with experienced engineers in the design, assembly and commissioning of mechanical equipment
+  * Application of image acquisition system for machine vision experiments
+  * Utilized the servers to train, test, package and deploy the neural networks
+  * Used the machine vision and deep learning to solve material detection and positioning problems that occur in real manufacturing
+* South China University of Technology, Research Assistant	Jun.2024‐present
+  * Assisted the supervisor to complete project related experiments and data analysis and processing
+  * Mentored lab juniors to complete experiments in machine vision and neural networks
+
+#Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+#Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+#Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+#Service and leadership
 ======
 * Currently signed in to 43 different slack teams
