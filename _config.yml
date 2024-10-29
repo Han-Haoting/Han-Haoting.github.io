@@ -23,6 +23,7 @@ author:
   # Biographic information
   avatar           : "avatar.png"
   name             : "Han Haoting"
+  gender           : "Male"
   pronouns         : # example: "she/her"  
   bio              : "South China University of Technology"
   location         : "GuangZhou, China"
@@ -44,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/Han-Haoting"
+  github           : "https://han-haoting.github.io/"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
