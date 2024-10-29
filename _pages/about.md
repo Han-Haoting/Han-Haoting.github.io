@@ -9,7 +9,7 @@ redirect_from:
 
 Hello, stranger. I am a master's graduate in Mechanical Engineering from [South China University of Technology](https://www.scut.edu.cn/new/). Currently, I am working as a research assistant under my master's supervisor while actively applying for doctoral programs at universities in Japan. My research interests include machine vision, neural networks, and their applications. 
 
-I will actively publish practical application cases related to neural networks on my GitHub page and will continuously update my personal status.123456
+I will actively publish practical application cases related to neural networks on my GitHub page and will continuously update my personal status.
 
 You can view my CV here: [Han-Haoting Curriculum Vitae](../assets/Curriculum_Vitae.pdf)
 
