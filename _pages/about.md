@@ -14,4 +14,4 @@ I will actively publish practical application cases related to neural networks o
 You can view my CV here: [Han-Haoting Curriculum Vitae](../assets/Curriculum_Vitae.pdf)
 
 Feel free to reach out to me regarding related matters. My contact information is as follows:
-[Office Email](mailto:hanhaoting1999@gmail.com) / [Email](mailto:hanhaoting_1999@163.com) / [Github](https://github.com/Han-Haoting) / [CSDN](https://blog.csdn.net/Uaena_violet?spm=1000.2115.3001.5343)
+[Office Email](mailto:hanhaoting1999@gmail.com) / [Email](mailto:hanhaoting_1999@163.com) / [Github](https://han-haoting.github.io/) / [CSDN](https://blog.csdn.net/Uaena_violet?spm=1000.2115.3001.5343)
