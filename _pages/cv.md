@@ -46,6 +46,7 @@ RESEARCH EXPERIENCE
     * Submitted a paper as the first author to Signal, Image and Video processing (Currently in the second round of peer review)
     * Granted a patent as the first author (Patent No.ZL 2022 1 1325575.1)
 
+<!--
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
@@ -62,7 +63,8 @@ Work experience
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-  
+-->
+
 Skills
 ======
 * Computer Skills:
