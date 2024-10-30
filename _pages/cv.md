@@ -13,7 +13,15 @@ Education
 ======
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 * M.S. in Guangzhou, China, South China University of Technology, Sept.2017-Jun.2021
+  * GPA: 4.01/5.0	Average Grades: 90/100	Rank: 3/137
+  * Relevant Courses: Principles of Machine, C Language Programming, Mechanical Design
+  * Top Grade Scholarship at School Level (5%), twice, 2018-2019 & 2019-2020
+  * First Prize of the Thirteenth “Higher Education Cup” National University Students' Innovation Competition of Advanced Mapping Technology and Product Information Modeling (The Highest Level National Competition for graphic arts programs), 2020
+  * First Prize of the Sixth Central and Western Region College Students' Advanced Mapping Technology and Product Information Modeling Innovation Competition, 2020
 * B.S. in Chongqing, China, Southwest University, Sept.2021-Jun.2024
+  * GPA: 3.6/4.0	Average Grades: 89.75/100
+  * Relevant Courses: Optimal Theories and Methods, Numerical Analysis, Modern Manufacturing Engineering
+  * Top Grade Scholarship at School Level, twice, 2021-2022 & 2022-2023
 
 RESEARCH EXPERIENCE
 ======
